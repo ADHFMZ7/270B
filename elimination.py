@@ -23,12 +23,6 @@ def matadd(matrix, r1, r2):
   print(f"R{r1}+R{r2}")
   return A
     
-    
-
-#multiplies elements of a row by a scaler
-def matmul():
-  pass
-
 def elimination(matrix):
   pass
 
